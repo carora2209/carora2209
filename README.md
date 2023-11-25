@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chaitanya Arora
-- 👀 I’m interested in Machine Learning and Convolutional Neural Networks
+- 👀 I’m NOT interested in Machine Learning and Convolutional Neural Networks
 - 🌱 I’m currently learning Java and BlockChain
 
 <!---
